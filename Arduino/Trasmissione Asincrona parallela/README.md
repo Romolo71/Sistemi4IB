@@ -3,6 +3,18 @@
 
 ---
 
+## 👥 Realizzatori
+*(Inserire immagine e nome sotto. L'immagine può linkare al profilo GitHub se disponibile)*
+
+| Realizzatori | 
+|--------------|
+| [![Nome](images/Romolo71.png)](https://github.com/Romolo71)  <br> **Riccardo Tonini** |
+| [![Nome](images/quellogiusto.png)](https://github.com/quellogiusto)  <br> **Scattolin Tommaso** |
+
+> **Nota:** sostituisci `images/avatar.png` con il percorso corretto della tua immagine e `https://github.com/username` con il link al profilo GitHub.  
+
+---
+
 # 📑 Indice
 - [1. Obiettivo](#1-obiettivo)
 - [2. Foto](#2-foto)
@@ -29,9 +41,31 @@ Puoi evidenziare concetti importanti con:
 ### 2.1 **Thinkercad**
 *(inserire immagine o link)*  
 
-![Thinkercad](immagini/thinkercad.png)
+![Thinkercad](images/thinkercad.png)
 
 ### 2.2 **Circuito Fisico**
-![Circuito Fisico](immagini/thinker.png)
+![Circuito Fisico](images/thinker.png)
 
-```markdown
+
+## 3 **CENNI TEORICI**
+(inserire concetti fondamentali, spiegazioni tecniche, formule, principi di funzionamento)
+
+Esempi (usa HTML per colorare e grassetto):
+
+<span style="color:green"><b>Segnali digitali</b></span>
+
+<span style="color:orange"><b>Protocollo di handshake</b></span>
+
+<span style="color:purple"><b>Arduino Input/Output</b></span>
+
+## 4 **FILE PRESENTI**
+Elenco dei file inclusi nel progetto (aggiornare in base alla cartella):
+
+/src → codici
+/schematic → schema elettrico mediante KiCAD
+/docs → documentazione aggiuntiva
+/images → immagini utilizzate nel README
+README.md → file descrittivo
+
+## 5. **Conclusione**
+*(risultati ottenuti, osservazioni, problemi riscontrati, possibili sviluppi futuri)*
