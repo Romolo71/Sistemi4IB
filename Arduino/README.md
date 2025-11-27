@@ -30,6 +30,8 @@ Puoi evidenziare concetti importanti con:
 *(inserire immagine o link)*  
 
 ![Thinkercad](immagini/thinkercad.png)
-```markdown
+
 ### 2.2 **Circuito Fisico**
 ![Circuito Fisico](immagini/thinker.png)
+
+```markdown
