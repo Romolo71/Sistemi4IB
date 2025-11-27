@@ -69,7 +69,7 @@ Puoi evidenziare concetti importanti con:
 ## 4 **FILE PRESENTI**
 Elenco dei file inclusi nel progetto (aggiornare in base alla cartella):
 
-/src → codici 
+/src → codici  
 /schematic → schema elettrico mediante KiCAD
 /images → immagini utilizzate nel README
 README.md → file descrittivo
