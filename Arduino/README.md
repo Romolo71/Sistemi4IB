@@ -29,4 +29,7 @@ Puoi evidenziare concetti importanti con:
 ### 2.1 **Thinkercad**
 *(inserire immagine o link)*  
 ```markdown
-![Thinkercad](percorso/immagine.png)
+![Thinkercad](immagini/thinkercad.png)
+
+### 2.2 **Circuito Fisico**
+![Circuito Fisico](percorso/foto.png)
