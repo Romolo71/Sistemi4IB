@@ -1,17 +1,14 @@
-# 📘 **TITOLO ESPERIENZA**
-*(inserire qui il titolo dell’esperienza)*
+# 📘 **Trasmissione Asincrona parallela**
+*Trasmissione Asincrona parallela tra due arduino via seriale*
 
 ---
 
 ## 👥 Realizzatori
-*(Inserire immagine e nome sotto. L'immagine può linkare al profilo GitHub se disponibile)*
 
 | Realizzatori | 
 |--------------|
 | [![Nome](https://github.com/Romolo71.png)](https://github.com/Romolo71)  <br> **Riccardo Tonini** |
 | [![Nome](https://github.com/quellogiusto.png)](https://github.com/quellogiusto)  <br> **Scattolin Tommaso** |
-
-> **Nota:** sostituisci `images/avatar.png` con il percorso corretto della tua immagine e `https://github.com/username` con il link al profilo GitHub.  
 
 ---
 
@@ -39,12 +36,11 @@ Puoi evidenziare concetti importanti con:
 ## 2. **Foto**
 
 ### 2.1 **Thinkercad**
-*(inserire immagine o link)*  
 
 ![Thinkercad](images/thinkercad.png)
 
 ### 2.2 **Circuito Fisico**
-![Circuito Fisico](images/thinker.png)
+![Circuito Fisico](images/circuit.png)
 
 
 ## 3 **CENNI TEORICI**
@@ -65,9 +61,9 @@ Puoi evidenziare concetti importanti con:
 
 ### Protocollo di handshake
 
-Il protocollo di handshake è un `metodo di comunicazione` che permette a due dispositivi di `sincronizzarsi prima di scambiare dati`. In pratica, un dispositivo segnala quando è `pronto a inviare o ricevere informazioni`, e `l’altro conferma quando è pronto a riceverle o a prenderle in carico`, evitando perdite o errori nei dati.
+> Il protocollo di handshake è un `metodo di comunicazione` che permette a due dispositivi di `sincronizzarsi prima di scambiare dati`. In pratica, un dispositivo segnala quando è `pronto a inviare o ricevere informazioni`, e `l’altro conferma quando è pronto a riceverle o a prenderle in carico`, evitando perdite o errori nei dati.
 
-Su Arduino, l’handshake digitale può essere implementato con pin configurati come input e output, dove `segnali HIGH e LOW indicano lo stato di “pronto” o “ricevuto”`. Questo tipo di protocollo è molto utile quando si devono trasferire dati tra più Arduino o Arduino e altri dispositivi in modo affidabile.
+> Su Arduino, l’handshake digitale può essere implementato con pin configurati come input e output, dove `segnali HIGH e LOW indicano lo stato di “pronto” o “ricevuto”`. Questo tipo di protocollo è molto utile quando si devono trasferire dati tra più Arduino o Arduino e altri dispositivi in modo affidabile.
 
 
 ## 4 **FILE PRESENTI**
@@ -75,7 +71,6 @@ Elenco dei file inclusi nel progetto (aggiornare in base alla cartella):
 
 /src → codici 
 /schematic → schema elettrico mediante KiCAD
-/docs → documentazione aggiuntiva
 /images → immagini utilizzate nel README
 README.md → file descrittivo
 
