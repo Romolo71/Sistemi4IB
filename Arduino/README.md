@@ -32,4 +32,4 @@ Puoi evidenziare concetti importanti con:
 ![Thinkercad](immagini/thinkercad.png)
 ```markdown
 ### 2.2 **Circuito Fisico**
-![Circuito Fisico](percorso/foto.png)
+![Circuito Fisico](immagini/thinker.png)
