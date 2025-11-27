@@ -8,8 +8,8 @@
 
 | Realizzatori | 
 |--------------|
-| [![Nome](images/Romolo71.png)](https://github.com/Romolo71)  <br> **Riccardo Tonini** |
-| [![Nome](images/quellogiusto.png)](https://github.com/quellogiusto)  <br> **Scattolin Tommaso** |
+| [![Nome](https://github.com/Romolo71.png)](https://github.com/Romolo71)  <br> **Riccardo Tonini** |
+| [![Nome](https://github.com/quellogiusto.png)](https://github.com/quellogiusto)  <br> **Scattolin Tommaso** |
 
 > **Nota:** sostituisci `images/avatar.png` con il percorso corretto della tua immagine e `https://github.com/username` con il link al profilo GitHub.  
 
