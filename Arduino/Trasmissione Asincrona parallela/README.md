@@ -51,12 +51,9 @@ Puoi evidenziare concetti importanti con:
 
 ### Segnali digitali
 
-> I segnali digitali sono impulsi elettrici che possono assumere solo due stati distinti, generalmente chiamati HIGH e LOW, corrispondenti a 5V e 0V su Arduino. Questo tipo di segnale permette di rappresentare informazioni in forma binaria, cioè 1 e 0, rendendolo ideale per i circuiti logici e i sistemi di controllo. 
->  Su Arduino, i segnali digitali vengono utilizzati sia in input, per leggere lo stato di pulsanti o sensori, sia in output, per comandare LED, motori o altri dispositivi. La precisione del segnale digitale rende semplice gestire la logica dei programmi e sincronizzare l’interazione con il mondo esterno.
+> I segnali digitali sono impulsi elettrici che possono assumere solo due stati distinti, generalmente chiamati `HIGH` e `LOW`, corrispondenti a `5V` e `0V` su Arduino. Questo tipo di segnale permette di rappresentare informazioni in `forma binaria`, cioè 1 e 0, rendendolo ideale per i circuiti logici e i sistemi di controllo. 
 
-
-
-<span style="color:orange"><b>Protocollo di handshake</b></span>
+> Su Arduino, i segnali digitali vengono utilizzati sia in input, per leggere lo stato di `pulsanti` o `sensori`, sia in output, per comandare `LED`, `motori` o altri dispositivi. La precisione del segnale digitale rende semplice gestire la logica dei programmi e sincronizzare l’interazione con il mondo esterno.
 
 ### Input e Output
 
@@ -66,6 +63,11 @@ Puoi evidenziare concetti importanti con:
 
 > Su una scheda Arduino UNO, i pin digitali vanno da `D0` a `D13`, e alcuni di essi hanno funzioni speciali come `PWM` o comunicazione seriale (`TX` e `RX`). L’uso corretto dei pin in input e output permette ad Arduino di interagire con il mondo esterno, ricevendo informazioni dai sensori e controllando dispositivi.
 
+### Protocollo di handshake
+
+Il protocollo di handshake è un `metodo di comunicazione` che permette a due dispositivi di `sincronizzarsi prima di scambiare dati`. In pratica, un dispositivo segnala quando è `pronto a inviare o ricevere informazioni`, e `l’altro conferma quando è pronto a riceverle o a prenderle in carico`, evitando perdite o errori nei dati.
+
+Su Arduino, l’handshake digitale può essere implementato con pin configurati come input e output, dove `segnali HIGH e LOW indicano lo stato di “pronto” o “ricevuto”`. Questo tipo di protocollo è molto utile quando si devono trasferire dati tra più Arduino o Arduino e altri dispositivi in modo affidabile.
 
 
 ## 4 **FILE PRESENTI**
