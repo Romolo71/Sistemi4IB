@@ -52,7 +52,7 @@ Puoi evidenziare concetti importanti con:
 ### Segnali digitali
 
 > I segnali digitali sono impulsi elettrici che possono assumere solo due stati distinti, generalmente chiamati HIGH e LOW, corrispondenti a 5V e 0V su Arduino. Questo tipo di segnale permette di rappresentare informazioni in forma binaria, cioè 1 e 0, rendendolo ideale per i circuiti logici e i sistemi di controllo. 
-> Su Arduino, i segnali digitali vengono utilizzati sia in input, per leggere lo stato di pulsanti o sensori, sia in output, per comandare LED, motori o altri dispositivi. La precisione del segnale digitale rende semplice gestire la logica dei programmi e sincronizzare l’interazione con il mondo esterno.
+>  Su Arduino, i segnali digitali vengono utilizzati sia in input, per leggere lo stato di pulsanti o sensori, sia in output, per comandare LED, motori o altri dispositivi. La precisione del segnale digitale rende semplice gestire la logica dei programmi e sincronizzare l’interazione con il mondo esterno.
 
 
 
