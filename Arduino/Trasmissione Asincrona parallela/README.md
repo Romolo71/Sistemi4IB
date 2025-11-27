@@ -54,7 +54,7 @@ Esempi (usa HTML per colorare e grassetto):
 
 <span style="color:green"><b>Segnali digitali</b></span>
 
-#### shshhshs
+### Segnali digitali
 
 > Arduino permette di gestire i segnali digitali attraverso i suoi pin, che possono essere configurati come input o output. I pin configurati come output possono inviare tensione al mondo esterno, ad esempio per accendere un LED o attivare un relè. Per fare questo si utilizza il comando `digitalWrite`, che permette di impostare il pin su HIGH (5V) o LOW (0V).
 
