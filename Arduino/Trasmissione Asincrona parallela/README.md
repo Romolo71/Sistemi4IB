@@ -53,6 +53,14 @@ Puoi evidenziare concetti importanti con:
 Esempi (usa HTML per colorare e grassetto):
 
 <span style="color:green"><b>Segnali digitali</b></span>
+> Arduino permette di gestire i segnali digitali attraverso i suoi pin, che possono essere configurati come input o output. I pin configurati come output possono inviare tensione al mondo esterno, ad esempio per accendere un LED o attivare un relè. Per fare questo si utilizza il comando ````c++
+digitalWrite`
+``` , che permette di impostare il pin su HIGH (5V) o LOW (0V).
+
+I pin configurati come input servono invece a leggere segnali provenienti da sensori, pulsanti o interruttori. In questo caso si utilizza il comando `digitalRead`, che restituisce lo stato del pin, HIGH o LOW, a seconda della tensione presente. La configurazione dei pin si fa con `pinMode`, specificando se il pin deve comportarsi come INPUT o OUTPUT.
+
+Su una scheda Arduino UNO, i pin digitali vanno da D0 a D13, e alcuni di essi hanno funzioni speciali come PWM o comunicazione seriale. L’uso corretto dei pin in input e output permette ad Arduino di interagire con il mondo esterno, ricevendo informazioni dai sensori e controllando dispositivi.
+**Nota:** sostituisci `images/avatar.png` con il percorso corretto della tua immagine e `https://github.com/username` con il link al profilo GitHub.
 
 <span style="color:orange"><b>Protocollo di handshake</b></span>
 
@@ -61,7 +69,7 @@ Esempi (usa HTML per colorare e grassetto):
 ## 4 **FILE PRESENTI**
 Elenco dei file inclusi nel progetto (aggiornare in base alla cartella):
 
-/src → codici
+/src → codici 
 /schematic → schema elettrico mediante KiCAD
 /docs → documentazione aggiuntiva
 /images → immagini utilizzate nel README
