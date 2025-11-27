@@ -54,6 +54,8 @@ Esempi (usa HTML per colorare e grassetto):
 
 <span style="color:green"><b>Segnali digitali</b></span>
 
+#### shshhshs
+
 > Arduino permette di gestire i segnali digitali attraverso i suoi pin, che possono essere configurati come input o output. I pin configurati come output possono inviare tensione al mondo esterno, ad esempio per accendere un LED o attivare un relè. Per fare questo si utilizza il comando `digitalWrite`, che permette di impostare il pin su HIGH (5V) o LOW (0V).
 
 I pin configurati come input servono invece a leggere segnali provenienti da sensori, pulsanti o interruttori. In questo caso si utilizza il comando `digitalRead`, che restituisce lo stato del pin, HIGH o LOW, a seconda della tensione presente. La configurazione dei pin si fa con `pinMode`, specificando se il pin deve comportarsi come INPUT o OUTPUT.
