@@ -29,7 +29,7 @@
 
 Puoi evidenziare concetti importanti con:  
 - **grassetto** → `**testo**`  
-- colore → `<span style="color:blue">testo colorato</span>`  
+- colore → `<span style="color:blue">testo balls</span>`  
 - entrambi → `<span style="color:red"><b>testo in grassetto e rosso</b></span>`
 
 ---
