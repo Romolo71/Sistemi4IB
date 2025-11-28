@@ -8,7 +8,7 @@
 | Realizzatori | 
 |--------------|
 | [![Nome](https://github.com/Romolo71.png)](https://github.com/Romolo71)  <br> **Riccardo Tonini** |
-| [![Nome](https://github.com/quellogiusto.png)](https://github.com/quellogiusto)  <br> **Scattolin Tommaso** |
+| [![Nome](https://github.com/ct-0401.png)](https://github.com/ct-0304)  <br> **Scattolin Tommaso** |
 
 ---
 
