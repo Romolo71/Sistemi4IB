@@ -43,8 +43,8 @@ Questo materiale permette di implementare la trasmissione asincrona parallela in
 
 ## 3. **Foto**
 
-### 3.1 **Thinkercad**
-![Thinkercad](images/thinkercad.png)
+### 3.1 **Tinkercad**
+![Tinkercad](images/thinkercad.png)
 
 ### 3.2 **Circuito Fisico**
 ![Circuito Fisico](images/circuit.png)
