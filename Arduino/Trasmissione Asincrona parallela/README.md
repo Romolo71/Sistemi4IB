@@ -30,7 +30,7 @@ Attraverso due Arduino, uno trasmettitore e uno ricevitore, si impara a:
 - Inviare dati paralleli a 4 bit senza usare un clock comune,  
 - Sincronizzare la trasmissione tramite i segnali READY e TAKEN,  
 - Garantire che ogni dato venga inviato e ricevuto correttamente,  
-- Osservare passo-passo il comportamento di un sistema di comunicazione hardware.
+- Osservare passo-passo il comportamento di un sistema di comunicazione hardware.  
 In questo modo si capisce come dispositivi diversi possono “mettersi d’accordo” per scambiarsi informazioni evitando errori.
 
 ---
