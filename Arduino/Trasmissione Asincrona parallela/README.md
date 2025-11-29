@@ -16,7 +16,7 @@
 - [1. Obiettivo](#1-obiettivo)
 - [2. Strumenti e Materiale](#2-strumenti-e-materiale)
 - [3. Foto](#3-foto)
-  - [3.1 Thinkercad](#31-thinkercad)
+  - [3.1 Tinkercad](#31-tinkercad)
   - [3.2 Circuito Fisico](#32-circuito-fisico)
 - [4. Cenni Teorici](#4-cenni-teorici)
 - [5. File Presenti](#5-file-presenti)
@@ -25,12 +25,13 @@
 ---
 
 ## 1. **Obiettivo**
-*(descrivere l’obiettivo dell’esperienza)*  
-
-Puoi evidenziare concetti importanti con:  
-- **grassetto** → `**testo**`  
-- colore → `<span style="color:blue">testo colorato</span>`  
-- entrambi → `<span style="color:red"><b>testo in grassetto e rosso</b></span>`
+L’obiettivo dell’esperienza è realizzare e comprendere un protocollo di comunicazione asincrono basato sul four-phase handshake.
+Attraverso due Arduino, uno trasmettitore e uno ricevitore, si impara a:  
+- Inviare dati paralleli a 4 bit senza usare un clock comune,  
+- Sincronizzare la trasmissione tramite i segnali READY e TAKEN,  
+- Garantire che ogni dato venga inviato e ricevuto correttamente,  
+- Osservare passo-passo il comportamento di un sistema di comunicazione hardware.
+In questo modo si capisce come dispositivi diversi possono “mettersi d’accordo” per scambiarsi informazioni evitando errori.
 
 ---
 
