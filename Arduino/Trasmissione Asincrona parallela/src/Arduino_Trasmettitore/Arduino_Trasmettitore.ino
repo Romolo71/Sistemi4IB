@@ -31,6 +31,8 @@ void sendNibble(byte val) {
 
   // Aspetta che TAKEN torni a 0
   while (digitalRead(TAKEN) == HIGH);
+
+
 }
 
 void loop() {
